@@ -6,5 +6,5 @@ import (
 
 func main() {
 	//inicializando subpackage router
-	router.Inicialize()
+	router.Initialize()
 }
